@@ -39,7 +39,7 @@ data/
 *.csv
 *.xlsx
 *.json
-*.pdf
+
 
 # Secrets / API keys
 config.py
